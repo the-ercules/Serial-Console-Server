@@ -1,0 +1,18 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"BUILT_BY";"COPYRIGHT";"DATASHEET";"DESCRIPTION";"DIGI-KEY_PART_NUMBER";"MANUFACTURER_PART_NUMBER";"MF";"MP";"MPN";"OC_FARNELL";"OC_NEWARK";"PACKAGE";"POPULARITY";"PRICE";"PURCHASE-URL";"SOURCELIBRARY";"SPICEPREFIX";"VENDOR";
+"38";"100nf";"C-EUC0603";"C0603";"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C15, C17, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"73";"";"";"";"C";"";
+"4";"10K";"R-US_R0805";"R0805";"R4, R5, R6, R7";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"85";"";"";"";"R";"";
+"1";"12K";"R-US_R0805";"R0805";"R2";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"85";"";"";"";"R";"";
+"2";"18pf";"C-EUC0603";"C0603";"C18, C19";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"73";"";"";"";"C";"";
+"1";"1K";"R-US_R0805";"R0805";"R1";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"85";"";"";"";"R";"";
+"1";"1mhz";"CRYSTALHC49S";"HC49/S";"Q1";"CRYSTAL";"";"";"";"";"";"";"";"";"";"";"1667008";"unknown";"";"49";"";"";"";"";"";
+"1";"2K";"R-US_R0805";"R0805";"R3";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"85";"";"";"";"R";"";
+"2";"4.7uf";"C-EUC0603";"C0603";"C14, C16";"CAPACITOR, European symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"73";"";"";"";"C";"";
+"1";"74HC595D";"74HC595D";"SO16";"IC3";"8-bit SHIFT REGISTER, output latch";"";"";"";"";"";"";"";"";"";"";"";"";"";"21";"";"";"";"";"";
+"8";"75";"R-US_R0805";"R0805";"R8, R9, R10, R11, R12, R13, R14, R15";"RESISTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"85";"";"";"";"R";"";
+"1";"93LC56BT-I/OT";"93LC56BT-I/OT";"SOT95P280X145-6N";"IC2";"";"";"";"";"";" IC EEPROM 2K SPI 2MHZ SOT23-6 ";"";"";"Microchip Technology";"93LC56BT-I/OT";"";"";"";"None";"";"";"https://pricing.snapeda.com/search/part/93LC56BT-I/OT/?ref=eda";"";"";"";
+"1";"FT4232HL";"FT4232HL";"LQFP64";"IC1";"Quad USB UART";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"4";"HS420-T";"L-USL2012C";"L2012C";"L1, L2, L3, L4";"INDUCTOR, American symbol";"";"";"";"";"";"";"";"";"";"";"";"";"";"6";"";"";"";"L";"";
+"4";"MAX3241EWI-T";"MAX3241EWI-T";"SOIC127P1032X265-28N";"IC4, IC5, IC6, IC7";"";"";"";"";"";"  3/5 Transceiver Full RS232 28-SOIC ";"MAX3241EWI+T-ND";"";"Maxim Integrated";"MAX3241EWI+";"";"";"";"SOIC-28 Maxim";"";"";"https://pricing.snapeda.com/search/part/MAX3241EWI+/?ref=eda";"";"";"";
+"4";"RJHSE-5384";"RJHSE-5384";"RJHSE-5384_AMP";"J2, J3, J4, J5";"";"";"EMA_Cory";"Copyright (C) 2018 Accelerated Designs. All rights reserved";"https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/rjhsex38x.pdf";"";"";"RJHSE-5384";"";"";"";"";"";"";"";"";"";"Amphenol_2020-10-07";"";"Amphenol";
+"1";"TLV1117-33IDCYR";"TLV1117-33IDCYR";"SOT230P700X180-4N";"U1";"";"";"";"";"";" 800-mA, 15-V, linear voltage regulator 4-SOT-223 -40 to 125 ";"296-21113-1-ND";"";"Texas Instruments";"TLV1117-33IDCYR";"";"";"";"SOT-223-4 Texas Instruments";"";"";"https://pricing.snapeda.com/search/part/TLV1117-33IDCYR/?ref=eda";"";"";"";
+"1";"USB-B-S-X-X-TH";"USB-B-S-X-X-TH";"SAMTEC_USB-B-S-X-X-TH";"J1";"USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle Check prices";"Warning";"";"";"";" USB-B (USB TYPE-B) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle ";"";"";"Samtec";"USB-B-S-S-B-TH";"";"";"";"None";"";"None";"https://pricing.snapeda.com/search/part/USB-B-S-S-B-TH/?ref=eda";"";"";"";
